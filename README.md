@@ -19,3 +19,8 @@ O projeto exibe uma página simples com:
 - index.html: Estrutura principal da página com cabeçalho, mensagem e espaço para imagem.
 - style.css: Define o estilo, cor de fundo e layout da página.
 - script.js: Lógica de mudança de saudação, imagem e fundo com base no horário do dia.
+
+Abaixo está uma amostra de como a página exibe a mensagem e a imagem de acordo com a hora do dia:
+
+![Foto da Noite](images/pag_noite.jpg)
+
